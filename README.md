@@ -1,8 +1,8 @@
-<h1 align="center">Hola 👋, Te doy la bienvenida</h1>
+ personal<h1 align="center">Hola 👋, Te doy la bienvenida</h1>
 <p align="center">
 <a href="https://app.daily.dev/byrbox"><img src="https://api.daily.dev/devcards/v2/AYQJMung6y1UCXupSPNL7.png?type=wide&r=j5l" width="652" alt="Byron Alfaro's Dev Card"/></a>
  </p> 
-<h3 align="center">Esta es la cuenta de nuestra empresa, donde compartimos y aprendemos más sobre lo que más nos gusta, Bienvenidos!</h3>
+<h3 align="center">Esta es mi cuenta personal, donde comparto y aprendo sobre lo que más nos gusta, Bienvenido!</h3>
 
 
 - 👨‍💻 Nuestro portafolio de diseño: [https://www.behance.net/Addon_Group](https://www.behance.net/Addon_Group)
